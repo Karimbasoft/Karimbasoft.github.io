@@ -18,3 +18,5 @@ The location can be sent either as position coordinates or as a Google Maps link
 In addition to the SMS, an alarm tone can also be played to draw attention to yourself acoustically.
 In addition to sending the location data, the position can also be displayed and shared, e.g. via WhatsApp.
 
+You can Support me on BuyMeACoffee:
+https://www.buymeacoffee.com/KarimbasoftApps
