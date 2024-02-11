@@ -1,0 +1,261 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+	<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+	<meta charset="utf-8" />
+	<title>Privacy Policy</title>
+	<!--[if gte mso 9]><xml>
+	 <o:DocumentProperties>
+	  <o:Author>Robin Eckhardt</o:Author>
+	  <o:LastAuthor>Robin Eckhardt</o:LastAuthor>
+	  <o:Revision>2</o:Revision>
+	  <o:Created>2023-01-21T19:58:00Z</o:Created>
+	  <o:LastSaved>2023-01-21T19:58:00Z</o:LastSaved>
+	  <o:Pages>7</o:Pages>
+	  <o:Words>1812</o:Words>
+	  <o:Characters>11422</o:Characters>
+	  <o:Lines>95</o:Lines>
+	  <o:Paragraphs>26</o:Paragraphs>
+	  <o:CharactersWithSpaces>13208</o:CharactersWithSpaces>
+	  <o:Version>16.00</o:Version>
+	 </o:DocumentProperties>
+	 <o:OfficeDocumentSettings>
+	  <o:RelyOnVML/>
+	  <o:AllowPNG/>
+	 </o:OfficeDocumentSettings>
+	</xml><![endif]-->
+	<style>
+	#demoFont {
+font-family: Arial, sans-serif;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+}
+  
+#header{
+  padding: 60px;
+  text-align: center;
+  background: #344955;
+  color: white;
+  font-size: 25px;
+  box-shadow: 5px 5px;
+  text-shadow: 0px 0px;
+  }
+  
+h1 {
+    font-size: 36px;
+    margin-top: 0;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+li {
+    margin-bottom: 5px;
+}
+  
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+  
+#oli {
+  counter-reset: item
+}
+#spli {
+  display: block
+}
+#spli:before {
+  content: counters(item, ".") " ";
+  counter-increment: item
+}
+	</style>
+</head>
+
+<body lang=EN id="demoFont">
+
+<div id="header">
+   <h1 id="privacyHeader">Privacy Policy</h1>
+  </div>
+  
+</p>
+<h2 id="einleitung">Introduction</h2>
+</p>
+
+
+<p>This
+privacy notice describes how and why we might collect, store, use, and/or share
+your information when you use our services ("<b>Services</b>"), such as when
+you:</p>
+
+<ul>
+
+<li>Download
+and use our mobile application (My Spot / Meine GPS Koordinaten) or any other application of ours that
+links to this privacy notice</li>
+
+<li>Engage
+with us in other related ways, including any sales, marketing, or events</li>
+</ul>
+
+
+<p>We use your
+Personal data to provide and improve the Service. By using the Service, you
+agree to the collection and use of information in accordance with this Privacy
+Policy.</p>
+
+</p>
+<p>Last updated 11 February 2024</p>
+
+</br>
+</br>
+<h2 id="contentTable">Content</h2>
+<ol id="oli"> 
+  <li id="spli">Overview of Processing</li>
+  <ol id="oli">
+  <li id="spli">Special Notes on Applications (Apps)</li>
+  </ol>
+  <li id="spli">Device permissions for access to functions and data</li>
+  <ol id="oli">
+  <li id="spli">Processing of location data </li>
+  <li id="spli">Google Maps </li>
+  </ol>
+  <li id="spli">Download of applications via app stores </li>
+  <ol id="oli">
+  <li id="spli">Google Play</li>
+  </ol>
+  <li id="spli">Deletion of data </li>
+  <li id="spli">Change and update of the privacy policy</li>
+  <li id="spli">User Rights </li>
+  <li id="spli">Definitions of terms </li>
+ <li id="spli">Person in authority</li>
+</ol>
+
+</br>
+</br>
+</br>
+<h2>1. Overview of Processing</h2>
+<p>&nbsp;</p>
+<p>The following overview summarizes the types of data processed and the purposes of their processing and refers to the individuals affected. Types of data processed:</p>
+<ul>
+<li>Location data (information of the geographical position of a device or person).</li>
+</ul>
+<p><strong>Categories</strong><strong> of affected individuals</strong></p>
+<ul>
+<li>Users (users of the app).</li>
+</ul>
+<p><strong>Purposes</strong><strong> of Processing</strong></p>
+<ul>
+<li>Provision of contractual performance and customer service.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>Relevant legal bases</strong></p>
+<p>Below is an overview of the legal bases of the GDPR on which we process personal data. Please note that in addition to the regulations of the GDPR, national data protection regulations may apply in your or our country of residence or establishment. Furthermore, if special legal bases are relevant in individual cases, we will inform you of this in the privacy policy.</p>
+<ul>
+<li><strong>Consent</strong> <strong>(</strong><strong> 6 para. 1 (a) GDPR</strong><strong>)</strong> - The individual has given their consent to the processing of their personal data for a specific purpose or multiple specific purposes.</li>
+<li><strong>Contractual fulfillment and pre-contractual inquiries (Art. 6 para. 1 (b) GDPR)</strong> - Processing is necessary for the fulfillment of a contract, of which the individual is a party, or for the implementation of pre-contractual measures taken at the request of the individual. l</li>
+<li><strong>Legitimate Interests (</strong><strong> 6 para. 1 lit. f GDPR</strong><strong>)</strong> - Processing is necessary to safeguard the legitimate interests of the controller or a third party, unless the interests or fundamental rights and freedoms of the individual, which require the protection of personal data, take precedence.</li>
+</ul>
+<p>&nbsp;</p>
+<p><strong>National data protection regulations in Germany</strong></p>
+<p>In addition to the data protection regulations of the General Data Protection Regulation, national data protection regulations apply in Germany. This includes in particular the Act to Protect Against the Misuse of Personal Data in Data Processing (Federal Data Protection Act - BDSG). The BDSG contains special regulations on the right to information, the right to deletion, the processing of special categories of personal data, processing for other purposes and transmission as well as automated decision-making in individual cases including profiling. Furthermore, it regulates the processing of personal data for the purpose of the employment relationship (&Acirc;&sect; 26 BDSG), in particular with regard to the establishment, performance or termination of employment relationships and the consent of employees. Furthermore, state data protection laws of the individual federal states may apply.</p>
+<p>&nbsp;</p>
+<h3>1.1 Special Notes on Applications (Apps)</h3>
+<p>&nbsp;</p>
+<p>We process the data of the users of our application insofar as this is necessary to provide the users with the application and its functionalities, to monitor its security and to develop it further. We may also contact users in compliance with legal requirements, provided that the communication is necessary for purposes of administration or use of the application. In all other respects, we refer to the data protection information in this privacy policy with regard to the processing of users' data.</p>
+<p>&nbsp;</p>
+<h2>2 Device permissions for access to functions and data</h2>
+<p>&nbsp;</p>
+<p>The use of our application or its functionalities may require user permissions for access to certain functions of the devices used or to the, data stored on the devices or accessible by means of the devices. By default, these permissions must be granted by users and can be revoked at any time in the device's settings.</p>
+<p>&nbsp;</p>
+<h3>2.1 Processing of location data</h3>
+<p>&nbsp;</p>
+<p>As part of the use of our application, location data collected by the device used or otherwise entered by users is processed. The use of location data requires user authorization, which can be revoked at any time. The collected locations are used to display the current location coordinates and their properties on the interface and to cache the coordinates or export them to a GPX file. By default, the application receives accurate coordinates from the GPS module, but the user can change this in the app's settings menu if they want to receive less precise coordinates. This location data is only stored locally on the device used and is not shared with third parties.</p>
+<p>&nbsp;</p>
+<h3>2.2 Google Maps</h3>
+<p>&nbsp;</p>
+<p>This site uses the map service Google Maps via an API. The provider is Google Ireland Limited ("Google "), Gordon House, Barrow Street, Dublin 4, Ireland.</p>
+<p>To use the functions of Google Maps, it is necessary to store your IP address. This information is usually transferred to a Google server in the USA and stored there. The provider of this site has no influence on this data transmission. The use of Google Maps is in the interest of an appealing presentation of our online offers and an easy location of the places indicated by us on the website. This represents a legitimate interest within the meaning of Art. 6 para. 1 lit. f DSGVO.</p>
+<p>More information on the handling of user data can be found in Google's privacy policy: https://policies.google.com/privacy?hl=de.</p>
+<p>&nbsp;</p>
+<h2>3 Download of applications via app stores</h2>
+<p>&nbsp;</p>
+<p>Our application is obtained via special online platforms operated by other service providers (so-called "app stores"). In this context, those of the respective app store apply in addition to our privacy policy:</p>
+<h3>3.1 Google Play:</h3>
+<ul>
+<li><strong>Types of data processed: </strong>inventory data (e.g. names, addresses), payment data (e.g. bank details, invoices, payment history), contact data (e.g. e-mail, telephone numbers), contract data (e.g. subject matter of contract, term, customer category), usage data (e.g. web pages visited, interest in content, access times), meta/communication data (e.g. device information, IP addresses). You can read more about Playstore's privacy policy here.</li>
+<li><strong>Affected</strong><strong> person</strong>: Customers.</li>
+<li><strong>Purposes of processing: </strong>provision of contractual services and customer <strong>service.</strong></li>
+<li><strong>Legal Grounds: </strong>Contract performance and pre-contractual requests (Art. 6 para. 1 p. 1 lit. b. DSGVO), Legitimate Interests (Art. 6 para. 1 p. 1 lit. f. DSGVO).</li>
+</ul>
+<p>More information about Google Play's privacy policy can be found here: <a href="https://policies.google.com/privacy?hl=de"><strong>https://policies.google.com/privacy?hl=de</strong></a></p>
+<p>&nbsp;</p>
+<h2>4 Deletion of data</h2>
+<p>&nbsp;</p>
+<p>The data processed by us will be deleted in accordance with the legal requirements as soon as their consents permitted for processing are revoked or other permissions cease to apply (e.g. if the purpose of processing this data has ceased to apply or it is not necessary for the purpose).</p>
+<p>The data will be deleted from the device if the user uninstalls the app from his device or deletes the app data.</p>
+<p>Our privacy notices may also contain further information on the retention and deletion of data, which will take precedence for the respective processing operations. </p>
+</br>
+<h2>5 Change and update of the privacy policy</h2>
+<p>&nbsp;</p>
+<p>We ask you to regularly inform yourself about the content of our privacy policy. We adapt the data protection declaration as soon as the changes in the data processing carried out by us make this necessary. We will inform you as soon as the changes require an act of cooperation on your part (e.g. consent) or other individual notification.</p>
+<p>If we provide addresses and contact information of companies and organizations in this privacy statement, please note that the addresses may change over time and please check the information before contacting us.</p>
+</br>
+<h2>6 User Rights</h2>
+<p>&nbsp;</p>
+<p>As a user, you are entitled to various rights under the GDPR, which arise in particular from Art. 15 to 21 GDPR:</p>
+<ul>
+<li><strong>Right to object:</strong> you have the right to object at any time, on grounds relating to your particular situation, to the processing of personal data concerning you which is carried out on the basis of Art. 6(1)(e) or (f) DSGVO; this also applies to profiling based on these provisions. If the personal data concerning you is processed for the purpose of direct marketing, you have the right to object at any time to the processing of personal data concerning you for the purpose of such marketing; this also applies to profiling insofar as it is related to such direct marketing.</li>
+<li><strong>Right of revocation for consents: </strong>You have the right to revoke any consent you have given at any time.</li>
+<li><strong>Right to erasure and restriction of processing:</strong> You have the right, in accordance with the law, to request that data relating to you be erased immediately or, alternatively, to request restriction of the processing of the data in accordance with the law.</li>
+<li><strong>Right of access:</strong> You have the right to obtain confirmation as to whether data in concern are being processed and to obtain information about these data and to obtain information about this data, as well as further information and a copy of the data in accordance with the legal requirements.</li>
+<li><strong>Right to data portability:</strong> You have the right to receive data concerning you, which you have provided to us, in a structured, common and machine-readable format in accordance with the legal requirements, or to demand its transfer to another responsible party.</li>
+<li><strong>Complaint to the supervisory authority:</strong> Without prejudice to any other administrative or judicial remedy, you have the right to lodge a complaint with a supervisory authority, in particular in the Member State of your habitual residence, your place of work or the place of the alleged infringement, if you consider that the processing of personal data relating to you infringes the requirements of the GDPR.</li>
+</ul>
+</br>
+<h2>7 Definitions of terms</h2>
+<p>&nbsp;</p>
+<p>This section provides you with an overview of the terms used in this privacy statement. Many of the terms are taken from the law and defined primarily in Art. 4 of the GDPR. The legal definitions are binding. The following explanations, on the other hand, are primarily intended to help you understand them.</p>
+<ul>
+<li><strong>Personal data</strong>: "Personal data" is any information relating to an identified or identifiable natural person (hereinafter "data subject"); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier (e.g. cookie) or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.</li>
+<li><strong>Location data: </strong>Location data is created when a mobile device (or another device with the technical requirements of location determination) connects to a radio cell, a WLAN, a GPS module or similar technical devices and functions of location determination. Location data serves to indicate at which geographically determinable position on earth the respective device is located. Location data can be used, for example, to display map functions or other information dependent on a location.<strong> </strong></li>
+<li><strong>Responsible person: </strong>Means the natural or legal person, public authority, agency or other body which alone or jointly with others determines the purposes and means of the processing of personal data.</li>
+<li><strong>Processing:</strong> "Processing " means any operation or set of operations which is performed upon personal data, whether or not by automatic means. The term is broad and includes virtually any handling of data, be it collection, analysis, storage, transmission or deletion.</li>
+</ul>
+<p>&nbsp;</p>
+<h2>8 Person in authority</h2>
+
+
+<p>Robin Eckhardt<br>
+Heckerswiesenstraße 13<br>
+34121 Kassel</p>
+
+
+</body>
+<footer>
+<h2>Contact Us</h2>
+<p>If you have any questions about this Privacy Policy, you can contact us:</p>
+<p><span lang=EN-US>By E-Mail: </span><a
+href="mailto:karimbasoft@gmail.com"><span>karimbasoft@gmail.com</span></a></p>
+</footer>
+</html>
